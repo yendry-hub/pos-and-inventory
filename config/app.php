@@ -81,7 +81,7 @@ return [
      */
 
     'locale' => 'en',
-
+    'number_format' => ',.',
     /*
     |--------------------------------------------------------------------------
     | Application Fallback Locale
